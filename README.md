@@ -50,6 +50,8 @@ This project used the following modules:
 
 3) You may download all the necessary files (dataset & python files) to run the project on your device.
 
+4) You can also access the file on [Google Colab](https://colab.research.google.com/drive/1FzVQvQkuKeNk8FSoej9SGZ4DIO8d8bK4?usp=sharing) and run the file.
+
 ## :technologist:  Credit
 
 This dataset is taken from: [Link](https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv)
