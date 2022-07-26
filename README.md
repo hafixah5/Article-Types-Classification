@@ -11,6 +11,8 @@
 
 This project aims to create a Natural Language Processing (NLP) model, to classify more than 2000 articles into 5 categories.
 The categories are Sport, Tech, Business, Entertainment and Politics. 
+
+Before developing the model, every words were assigned to a unique integer. The model then learned from this dictionary of words:numbers and relate it to the type of article during training. 
 In this project, the model is able to classify the articles with a 90% accuracy.
 
 A sneak peek of the model developed and model report are as below:
@@ -27,13 +29,15 @@ A sneak peek of the model developed and model report are as below:
 - ohe.pkl
 - tokenizer.json
 
-:point_right: photos folder which contains the following images:
+:point_right: Images folder which contains the following images:
 - confusion matrix
 - epoch accuracy and epoch loss (from tensorboard)
 - model accuracy
 - model architecture
 - model architecture
 - model parameter
+
+:point_right: Logs folder (used for visualization in TensorBoard)
 
 ##  :rocket:  Project Usage
 1) This project is done using Python 3.8 on Google Colab.
